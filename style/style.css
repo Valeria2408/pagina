@@ -9,5 +9,15 @@ body{
 }
 h1 {text-align: center;
     text-shadow: 4px 2px black;
-color: blanchedalmond;}
+color: blanchedalmond;
+ margin:14 px, black}
+article {font-size:x-large;
+         padding: 14px;
+         margin:60;
+         max-width: 1250px;
+         margin: auto;
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+}
 
